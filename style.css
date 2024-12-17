@@ -1,0 +1,14 @@
+    .p1{
+        background-color : #6ea1d5;
+        color : white;
+        padding : 10px 15px 10px 15px; /*ระยะยห่างระหว่างขอบกับเนื้อหาด้านในโดยนับจาก บน ขวา ล่าง ซ้าย*/
+        margin-bottom : 0px;
+        border:solid 2px #6e81d5;
+        border-radius : 10px;
+    }
+    .content{
+        background-color: #f6b1f7;
+        padding : 20px 30px 20px 30px;
+        margin-left : 30px;
+        margin-right : 30px;
+    }
